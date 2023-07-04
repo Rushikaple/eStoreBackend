@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.example.estorebackend.EStoreBackendApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.148 s - in com.example.estorebackend.EStoreBackendApplicationTests
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.735 s - in com.example.estorebackend.EStoreBackendApplicationTests

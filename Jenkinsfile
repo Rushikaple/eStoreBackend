@@ -30,4 +30,5 @@ pipeline {
                 echo 'Packaging the Project with maven package'
             }
         }
+    }
 }
